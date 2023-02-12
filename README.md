@@ -13,7 +13,7 @@ Efolio Global 2022 - Integração de Heun
 
 📌 Integração de Heun
 
-Um bloco de 2,0 kg de massa, inicialmente em repouso, é sujeito a uma força variável no tempo de magnitude 𝐹 = 10 + 5,0𝑡 (SI). Esta força atua até ao instante 3,0 s (exclusive) e depois cessa. O bloco sofre também uma força de arrasto do ar durante todo o seu movimento, proporcional ao quadrado da velocidade com coeficiente b = 8,0 kg/m.
+Um bloco de 2,0 kg de massa, inicialmente em repouso, é sujeito a uma força variável no tempo de magnitude 𝐹 = 10 + 5,0𝑡 (SI). Esta força atua até ao instante 3,0 s (exclusive) e depois cessa. O bloco sofre também uma força de arrasto do ar durante todo o seu movimento, proporcional ao quadrado da velocidade com coeficiente b = 8,0 kg/m.<br>
 a) Construa a equação de movimento para o bloco.
 ------------------
 Para construir a equação de movimento do bloco, precisamos da segunda lei de Newton:
